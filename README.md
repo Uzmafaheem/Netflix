@@ -218,9 +218,9 @@ This Netflix EDA project provides a detailed view of Netflix’s content strateg
 
 ## 📊 YData Profiling Report
 
-Full automated profiling report is available here:
+Full automated profiling report is available here (Download):
 
-- 👉 View Netflix YData Profiling Report: [https://github.com/Uzmafaheem/Netflix/blob/main/netflix_eda_report.html]
+- 👉 View Netflix YData Profiling Report: [https://github.com/Uzmafaheem/Netflix/blob/main/netflix_eda_report.html] 
 
 ## 🧑‍💻 Author
 Faheemunnisa Syeda
