@@ -23,6 +23,10 @@ We investigate:
 
 This project demonstrates skills in data preprocessing, time-series analysis, text mining, visualization, and feature engineering.
 
+## 📈 Business Impact (Short Version)
+
+This EDA provides valuable insights into Netflix’s content strategy and helps guide data-driven decisions. It highlights how Netflix prioritizes movies, mature-audience content, and globally diverse productions, especially from the US and India. Trends in release years, content age, genres, and ratings help identify what types of titles Netflix invests in and when. These insights can support decisions in content acquisition, production planning, audience targeting, and market expansion.
+
 ## 🧠 Concepts Covered
 🔧 Data Cleaning & Transformation
 
@@ -200,3 +204,23 @@ This Netflix EDA project provides a detailed view of Netflix’s content strateg
 - ✔ Word cloud & bigrams
 - ✔ Top directors
 - ✔ Boxplots, barplots, line charts
+  
+##📜 How to Run the Notebook
+  - Open Jupyter or Google Colab
+  - Run all cells in order
+
+##📌  Tools Used
+- Python
+- pandas
+- numpy
+- seaborn
+- matplotlib
+
+## 🧑‍💻 Author
+Faheemunnisa Syeda
+
+- 📧 Contact: [syedafaheem56@gmail.com]
+
+- 🔗 GitHub: [https://github.com/syedafaheem7/]
+
+- 🔗 linkedln: [https://www.linkedin.com/in/faheem-unnisa-s-6270888b/]
