@@ -23,7 +23,7 @@ We investigate:
 
 This project demonstrates skills in data preprocessing, time-series analysis, text mining, visualization, and feature engineering.
 
-## 📈 Business Impact (Short Version)
+## 📈 Business Impact 
 
 This EDA provides valuable insights into Netflix’s content strategy and helps guide data-driven decisions. It highlights how Netflix prioritizes movies, mature-audience content, and globally diverse productions, especially from the US and India. Trends in release years, content age, genres, and ratings help identify what types of titles Netflix invests in and when. These insights can support decisions in content acquisition, production planning, audience targeting, and market expansion.
 
