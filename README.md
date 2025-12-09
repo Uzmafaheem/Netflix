@@ -194,7 +194,7 @@ Descriptions highlight universal themes:
 
 This Netflix EDA project provides a detailed view of Netflix’s content strategy, genre preferences, global expansion, and maturity-level focus. The analysis reveals a strong push toward international content, mature audiences, and original programming. Despite dataset limitations, the insights offer a comprehensive understanding of the platform’s evolving content landscape.
 
-##📜 Code Included
+## 📜 Code Included
 
 - ✔ Data cleaning
 - ✔ Transformation
@@ -205,16 +205,22 @@ This Netflix EDA project provides a detailed view of Netflix’s content strateg
 - ✔ Top directors
 - ✔ Boxplots, barplots, line charts
   
-##📜 How to Run the Notebook
+## 📜 How to Run the Notebook
   - Open Jupyter or Google Colab
   - Run all cells in order
 
-##📌  Tools Used
+## 📌  Tools Used
 - Python
 - pandas
 - numpy
 - seaborn
 - matplotlib
+
+## 📊 YData Profiling Report
+
+Full automated profiling report is available here:
+
+- 👉 View Netflix YData Profiling Report: [https://github.com/Uzmafaheem/Netflix/blob/main/netflix_eda_report.html]
 
 ## 🧑‍💻 Author
 Faheemunnisa Syeda
